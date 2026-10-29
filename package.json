@@ -1,0 +1,16 @@
+{
+  "name": "obsidian-tasks-mcp",
+  "version": "1.3.0",
+  "description": "MCP server for querying Obsidian Tasks",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David Nuñez",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.1"
+  }
+}
